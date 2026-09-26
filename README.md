@@ -1,21 +1,21 @@
-# 🚗 Hand Gesture Car Game
+# Hand Gesture Car Game
 
 A Python-based car game controlled using hand gestures.
 
-## 📌 Project Description
+##  Project Description
 
 This project uses a webcam to detect hand gestures in real time.
 The detected gestures are used to control the movement of a car
 inside the game.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - OpenCV
 - MediaPipe
 - Pygame
 
-## ✨ Features
+##  Features
 
 - Real-time hand gesture detection
 - Gesture-based car control
@@ -23,7 +23,7 @@ inside the game.
 - Interactive game environment
 - Smooth car movement
 
-## ⚙️ Installation
+##  Installation
 
 Clone this repository:
 
